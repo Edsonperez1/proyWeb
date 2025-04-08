@@ -18,4 +18,7 @@ Si el sitio utiliza una base de datos, asegúrate de que esté configurada y que
 Proporciona todos los archivos fuente del sitio web, incluyendo el código, imágenes y otros recursos.
 Entrega todas las credenciales necesarias para acceder al servidor, la base de datos y cualquier otro sistema asociado.
 
-Esta es una página para inventarios, en la cual se puede tener un ontro
+Esta es una página para inventarios, en la cual se puede tener un control de inventario y de ventas del negocio.
+La página es totalmente responsiva.
+
+
